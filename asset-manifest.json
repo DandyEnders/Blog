@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "//dandyenders.github.io/static/css/main.073c9b0a.css",
+    "main.js": "//dandyenders.github.io/static/js/main.fe1f359a.js",
+    "static/js/787.f587e8d5.chunk.js": "//dandyenders.github.io/static/js/787.f587e8d5.chunk.js",
+    "static/media/logo.svg": "//dandyenders.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//dandyenders.github.io/index.html",
+    "main.073c9b0a.css.map": "//dandyenders.github.io/static/css/main.073c9b0a.css.map",
+    "main.fe1f359a.js.map": "//dandyenders.github.io/static/js/main.fe1f359a.js.map",
+    "787.f587e8d5.chunk.js.map": "//dandyenders.github.io/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fe1f359a.js"
+  ]
+}
